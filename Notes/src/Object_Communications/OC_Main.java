@@ -6,4 +6,4 @@ public class OC_Main {
         b.senseDanger();
     }
 }
-//quiz next class on singletons
+//quiz next class on singletons [and object communications - 10/19/23]
